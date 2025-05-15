@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+João Pedro Fernandes Reis
+Felipe de Carvalho Araújo
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
